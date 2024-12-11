@@ -6589,7 +6589,6 @@ HTTP/1.1 302 Found
                     <vspace/>
                     REQUIRED.
                     Its value MUST be the Entity Identifier of the OP.
-                    specification.
                   </t>
                   <t hangText="sub">
                     <vspace/>
